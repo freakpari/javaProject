@@ -27,7 +27,7 @@
                 <input placeholder="enter your name.." type="text" class="form-control" id="name" name="name" required>
             </div>
             <div class="text-center">
-                <button type="submit" class="btn btn-primary">ارسال</button>
+                <button type="submit" class="btn btn-primary">submit</button>
             </div>
         </form>
 
